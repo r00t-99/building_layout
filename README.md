@@ -1,16 +1,9 @@
-# building_layouts
+# Flutter Building Layout Tutorial
 
-A new Flutter project.
+## What is this?
+This is a Flutter building layout tutorial.
+- https://docs.flutter.dev/development/ui/layout/tutorial
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capture
+### Android
+<img src="https://user-images.githubusercontent.com/35091675/176883201-aec8b380-f342-4226-aa3e-a13303912be3.png" width="400">
